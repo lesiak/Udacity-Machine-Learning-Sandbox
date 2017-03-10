@@ -1,0 +1,11 @@
+name: siraj-nn
+channels:
+- defaults
+dependencies:
+- pip=9.0.1=py27_1
+- python=2.7.13=0
+- setuptools=27.2.0=py27_1
+- vs2008_runtime=9.00.30729.5054=0
+- wheel=0.29.0=py27_0
+prefix: C:\Applications\Anaconda3\envs\siraj-nn
+
